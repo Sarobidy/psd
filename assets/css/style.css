@@ -1,7 +1,17 @@
-.navbar{
-	background: #391313;
+.entete{
+	background:#391713; 
 }
-#slide{
-	margin-top:80px;
-	
+div ul li a{
+	color:#ffffff !important;	
+	text-transform: uppercase;
+}
+.navbar-brand{
+	color: #ffffff !important;
+	font-weight: bold;
+}
+p{
+	color:  #ffffff !important;
+}
+.contenu{
+	background: #9c3333;
 }
